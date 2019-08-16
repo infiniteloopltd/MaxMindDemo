@@ -1,5 +1,4 @@
 c:\users\fiach reid\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
-c:\users\fiach reid\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\GeoLite2-Country.mmdb
 c:\users\fiach reid\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
 c:\users\fiach reid\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
 c:\users\fiach reid\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\MaxMind.Db.dll
